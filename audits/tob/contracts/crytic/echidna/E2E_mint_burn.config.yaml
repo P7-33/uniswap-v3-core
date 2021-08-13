@@ -1,4 +1,4 @@
-checkAsserts: true
+#checkAsserts: true
 coverage: true
 codeSize: 0x60000
 corpusDir: echidna_e2e_mint_burn_corpus
